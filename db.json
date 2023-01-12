@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "name": "Kira",
+      "id": 2
+    },
+    {
+      "name": "Rene",
+      "id": 3
+    },
+    {
+      "name": "Shakira",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "name": "Rustic Soft Table",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "name": "Small Fresh Sausages",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "name": "Bespoke Rubber Chicken",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "name": "Fantastic Concrete Table",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "name": "Ergonomic Wooden Bacon",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "name": "Small Wooden Car",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "name": "Ergonomic Metal Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "name": "Tasty Steel Sausages",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "name": "Handmade Frozen Keyboard",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "name": "Tasty Steel Cheese",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/cats?lock=18187",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/cats?lock=52933",
+      "id": 2
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480/cats?lock=73002",
+      "id": 3
+    }
+  ]
+}

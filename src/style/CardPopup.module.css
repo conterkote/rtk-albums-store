@@ -1,0 +1,12 @@
+.CardPopup {
+  --card-popup-offsetX: 0;
+  --card-popup-offsetY: 0;
+  position: absolute;
+  left: var(--card-popup-offsetX);
+  top: var(--card-popup-offsetY);
+  width: 200px;
+  height: 40px;
+  background-color: green;
+}
+
+/*# sourceMappingURL=CardPopup.module.css.map */

@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: 'Martian Mono', sans-serif;
+}
+
+.skeleton:nth-child(n)::content {
+    background-color: black;
+}

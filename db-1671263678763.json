@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "a",
+      "name": "John Lean"
+    },
+    {
+      "id": "b",
+      "name": "Jason Storm"
+    },
+    {
+      "name": "Clara",
+      "id": "IQ99qnt"
+    },
+    {
+      "name": "Angelita",
+      "id": "uLDj-Wg"
+    },
+    {
+      "name": "Savannah",
+      "id": "apcAaDN"
+    },
+    {
+      "name": "Nigel",
+      "id": "--1pJFm"
+    },
+    {
+      "name": "Sierra",
+      "id": "AjeOd0e"
+    },
+    {
+      "name": "Rudolph",
+      "id": "L7FPrIw"
+    }
+  ],
+  "albums": [
+    {
+      "id": "a",
+      "name": "Happy time",
+      "userId": "b"
+    },
+    {
+      "id": "b",
+      "name": "Sad time",
+      "userId": "a"
+    }
+  ],
+  "photos": [
+    {
+      "id": "a",
+      "src": "https://ctl.s6img.com/society6/img/uVweYlSX9RJGts3lcwe-xyAQH20/w_1500/prints/~artwork/s6-0069/a/28367159_15768563/~~/crocodile-gangster-prints.jpg",
+      "albumId": "a"
+    },
+    {
+      "id": "b",
+      "src": "https://i.scdn.co/image/ab67616d0000b2730c057f8f00808c5ee0cfed41",
+      "albumId": "b"
+    },
+    {
+      "id": "c",
+      "src": "https://media.redcircle.com/images/2020/1/9/15/b5b9f4dc-dbc4-4e35-96c2-18734c41d9c4_69ec7a44-af33-423a-a2e7-484bd3d0d712_0078bfd252c38d5ce7c0dff21d369d4a.jpg",
+      "albumId": "b"
+    },
+    {
+      "id": "d",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZ-1gBIoBar9LGSb_5DS3-NTohKobm44J6b7VJzOcPEWBFtz0owCw5Ma-ZU0yxO3F-Tc&usqp=CAU",
+      "albumId": "b"
+    },
+    {
+      "id": "e",
+      "src": "https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/hcjrqlvc6dfhpjxob9nt/cudi",
+      "albumId": "a"
+    },
+    {
+      "id": "f",
+      "src": "https://ih1.redbubble.net/image.1385153347.9172/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",
+      "albumId": "a"
+    }
+  ]
+}
