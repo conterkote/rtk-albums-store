@@ -1,8 +1,6 @@
 import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/query/react";
-import axios from "axios";
-import {albumTag, IAlbum, IAlbumWithNewValue, IUser, usersAlbumsTag} from "../../models";
+import { IAlbum, IAlbumWithNewValue, IUser } from "../../models";
 import {faker} from "@faker-js/faker";
-import {useAppDispatch} from "../store";
 
 const albumsAPI = createApi({
   reducerPath: 'albums',
