@@ -3,6 +3,7 @@ import { IAlbum, IAlbumWithNewValue, IUser } from "../../models";
 import {faker} from "@faker-js/faker";
 
 const commitTest = 'Hello world haha merge it!'
+const commitTest3 = 'Hello world haha merge it!'
 const commitTest2 = 'Hello world haha merge it!'
 
 const albumsAPI = createApi({
