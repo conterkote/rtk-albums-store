@@ -2,6 +2,8 @@ import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/query/react";
 import { IAlbum, IAlbumWithNewValue, IUser } from "../../models";
 import {faker} from "@faker-js/faker";
 
+const commitTest = 'Hello world!'
+
 const albumsAPI = createApi({
   reducerPath: 'albums',
   baseQuery: fetchBaseQuery({
