@@ -7,8 +7,7 @@
 </div>
 
 <br>
-<p>
-Photos generated with faker, I'm afraid of cats 😲</p>
+<p>This project is built on: React, Redux Toolkit (+Query), faker, json-server, photos generated with faker, I'm afraid of cats 😲</p>
 
 <br>
 <p>The following things are implemented in this project:</p>
