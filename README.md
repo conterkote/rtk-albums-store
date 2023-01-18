@@ -2,6 +2,7 @@
 
 <div>
   <p>Use the following commands to run the project</p>
+  <code>npm install</code><br>
   <code>npm run dev</code><br>
   <code>npm run server</code>
 </div>
